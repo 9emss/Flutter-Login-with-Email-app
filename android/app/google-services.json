@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987514090510",
+    "firebase_url": "https://deappge.firebaseio.com",
+    "project_id": "deappge",
+    "storage_bucket": "deappge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987514090510:android:5181a27b7895853324f85f",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987514090510-4v7iuie7k5pu31ik3jo7mdlhs80rv1jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_app",
+            "certificate_hash": "ade1a5721ebb10143ebf1851b949fe67935e3516"
+          }
+        },
+        {
+          "client_id": "987514090510-pj1kmsepgmjsd7gtv7lhg4p0pf75v27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xNPcV6cGgWLcwgLG5k4R78L50zRw390"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987514090510-pj1kmsepgmjsd7gtv7lhg4p0pf75v27f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
