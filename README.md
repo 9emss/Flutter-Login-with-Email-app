@@ -1,6 +1,8 @@
-# test_app
+# Flutter Login with Email
 
 A new Flutter project.
+
+Application for learning login with email (Firebase).
 
 ## Getting Started
 
